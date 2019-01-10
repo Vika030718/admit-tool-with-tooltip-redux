@@ -1,0 +1,39 @@
+{
+    "gallery": [
+        {
+            "id": "8658c1d0-9eda-4a90-95e1-8001e8eb6036",
+            "title": "Ocean at dusk",
+            "src": "https://travel.miruvashihnog.ru/wp-content/uploads/2018/01/monkey.jpg",
+            "pointer": {
+                "pointerRect": 0,
+                "pointerX": 0,
+                "pointerY": 0
+            },
+            "tooltip": "Tooltip text 1"
+        },
+        {
+            "id": "f9005b4e-975e-433d-a646-79df172e1dbb",
+            "title": "Mars in summer",
+            "src": "https://icdn.lenta.ru/images/2018/10/21/22/20181021224001568/pic_d123a2fc3c7f0ecfc5fd6e2f8537b230.jpg",
+            "pointer": {
+                "pointerRect": 0,
+                "pointerX": 0,
+                "pointerY": 0
+            },
+            "tooltip": "Tooltip text 2"
+        },
+        {
+           "id": "58d9caee-6ea6-4d7b-9984-65b145031979",
+            "title": "Moon in your eyes",
+            "src": "http://www.amazingajmer.com/images/vdohnovenie/goroskop-na-2016-god_3.jpg",
+            "pointer": {
+                "pointerRect": 0,
+                "pointerX": 0,
+                "pointerY": 0
+            },
+            "tooltip": "Tooltip text 3"
+        }
+    ],
+    
+    "openedPopupId": false
+}
